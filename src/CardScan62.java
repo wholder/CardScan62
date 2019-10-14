@@ -9,6 +9,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static java.awt.image.BufferedImage.TYPE_BYTE_GRAY;
+/*
+ *  Test Program to communicate with and control a Dymo CardScan 62
+ *
+ *  Author: Wayne Holder, 2019
+ *  License: MIT (https://opensource.org/licenses/MIT)
+ */
 
 //  Windows driver: https://gist.github.com/mbrownnycnyc/8939716
 
